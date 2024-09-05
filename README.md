@@ -1,24 +1,26 @@
-# Analitica_de_datos
-Acercamiento a herramientas de analitica de negocios como: Power Bi, SQL, Python, R
+# Primer repositorio en GitHub
+#### *Hola, soy Melissa Andrea Peralta y este es mi primer acercamiento a herramientas de analitica de negocios como: Power Bi, SQL, Python, R en GitHub*
 
-# Hola Mundo 1 
-## Hola Mundo 2
-### Hola Mundo 3
-#### Hola Mundo 4
-##### Hola Mundo 5
-###### Hola Mundo 6
+  ![IA](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/inteligencia-artificial-IA.jpg.transform/rp-rendition-md/image.jpg)
 
-**Este es mi primer repositorio en GitHub**
+## *Te cuento un poco más sobre mi:*
 
-*Administracion de empresas*
-* Primer elemento
-* Segundo elemento
-* Tercer elemento
+Soy una estudiante proactiva de Administración de Empresas con énfasis en marketing digital y analítica de negocios, Me apasiona transformar datos en insights accionables para impulsar el crecimiento empresarial. Mis habilidades en análisis de datos, pensamiento estratégico y herramientas digitales me permiten optimizar campañas y tomar decisiones informadas. Busco aplicar mis conocimientos en un entorno dinámico y colaborativo
+
+##### *Principales hobbies*
+* Escuchar música 
+* Dibujar - Pintar
+* Ver series
   
-1. Primer elemento de la lista
-2. Segundo elemento de la lista
-3. Tercer elemento de la lista
+###### *Fun facts*
+1. Soy ambidiestra
+2. Le tengo pánico a las arañas
+3. Me sé los dialogos de las peliculasw de Harry Potter
 
-[EXTERNADO](https://www.uexternado.edu.co/)
 
- ![Colombia](https://govco-prod-webutils.s3.amazonaws.com/uploads/2022-12-13/d50f15a1-7851-407a-98c4-5bb14ee301ae-1imagen_noticia.svg)
+#### Me puedes encontrar en el siguiente perfil: [LINKEDIN](www.linkedin.com/in/melissa-peralta-peña-53b1062b3)
+
+
+
+
+
