@@ -15,7 +15,7 @@ Soy una estudiante proactiva de Administración de Empresas con énfasis en mark
 ###### *Fun facts*
 1. Soy ambidiestra
 2. Le tengo pánico a las arañas
-3. Me sé los dialogos de las peliculasw de Harry Potter
+3. Me sé los dialogos de las peliculas de Harry Potter
 
 
 #### Me puedes encontrar en el siguiente perfil: [LINKEDIN](www.linkedin.com/in/melissa-peralta-peña-53b1062b3)
